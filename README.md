@@ -21,6 +21,5 @@
 <h2>Contact</h2>
 
 - <strong>Email:</strong> <a href="mailto:example@example.com">swapnilkakde09@gmail.com</a>
-- <strong>Phone:</strong> +91 8999391155
 - <strong>GitHub:</strong> <a href="https://github.com/yourusername">yourusername
 
