@@ -8,18 +8,19 @@
   <li>Power BI</li>
   <li>Excel</li>
 </ul>
-<h2>Projects</h2>
-<p>In my Github repositories, you'll find several data analytics projects that demonstrate my ability to clean, preprocess, analyze, and visualize large datasets:</p>
+<h2>Certifications</h2>
+<p>As a self-motivated learner, I have completed several online certifications to deepen my knowledge and skills in data science:</p>
 <ul>
-  <li><a href="#">Project 1</a> - Exploratory Data Analysis On Hotel Booking dataset.</li>
-  <li><a href="#">Project 2</a> - Exploratory Data Analysis On Zomato Dataset.</li>
-  <li><a href="#">Project 3</a> - EDA On Sales Data Insights with Dashboard</li>
-  <li><a href="#">Data Visualization</a> - Cryptocurrency Forecasting, Superstore sales data, HR Analytytics, Excel sales report</li>
+  <li><a href="#"></a>  Accenture Data Analytics Virtual Experience (Internship)</li>
+  <li><a href="#"></a>  IBM Data Science Professional Certificate (Coursera)</li>
+  <li><a href="#"></a>  Data Analysis with Python</li>
+  <li><a href="#"></a>  Database and SQL for Data Science (Coursera)</li>
+  <li><a href="#"></a>  Data Visualization With Power BI (Great Learning)</li>
+  <li><a href="#"></a>  Data Analysis using Excel (Great Learning)</li>
 </ul>
 <h2>Experience</h2>
 <p>During my 3-month internship as a data analyst, I had the opportunity to apply my skills to real-world data and collaborate with cross-functional teams to deliver valuable insights and recommendations. This experience has given me the practical skills to apply my data science expertise to real-world problems.</p>
 <h2>Contact</h2>
+<strong>Email:</strong> <a href="mailto:example@example.com">swapnilkakde09@gmail.com</a>
 
-- <strong>Email:</strong> <a href="mailto:example@example.com">swapnilkakde09@gmail.com</a>
-- <strong>GitHub:</strong> <a href="https://github.com/yourusername">https://github.com/swapnilkakde09
-
+<strong>GitHub:</strong> <a href="https://github.com/yourusername">https://github.com/swapnilkakde09
